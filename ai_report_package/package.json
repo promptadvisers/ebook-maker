@@ -1,0 +1,14 @@
+{
+  "name": "state-of-ai-report-generator",
+  "version": "1.0.0",
+  "description": "Generate professional McKinsey-style Word documents with docx-js",
+  "main": "create_report.js",
+  "scripts": {
+    "generate": "node create_report.js"
+  },
+  "dependencies": {
+    "docx": "^8.5.0"
+  },
+  "author": "Mark Kashef <mark@promptadvisers.com>",
+  "license": "MIT"
+}
