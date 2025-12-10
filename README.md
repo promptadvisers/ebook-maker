@@ -28,7 +28,7 @@ Transform your content into polished, professional eBooks with stunning AI-gener
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ebook-maker.git
+git clone https://github.com/promptadvisers/ebook-maker.git
 cd ebook-maker
 ```
 
